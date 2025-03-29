@@ -1,5 +1,5 @@
 # ClinicManagementSystem
-A C++ Project
+A C++ Project:
 The Clinic Management System is a simple C++ program designed to manage patient records, schedule appointments, and view patient details efficiently. This system allows clinics to register both regular and special 
 patients, assign doctors, and handle appointment scheduling while preventing conflicts.
 
